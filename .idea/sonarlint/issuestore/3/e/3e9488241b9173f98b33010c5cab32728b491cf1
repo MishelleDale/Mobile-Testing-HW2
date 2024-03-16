@@ -1,13 +1,0 @@
-
-h
-java:S2699"-Add at least one assertion to this test case.(œÅ†?J$5d9ed32a-4e60-4817-94e3-9e8e76f6d256
-
-java:S5826"aAnnotate this method with JUnit5 '@org.junit.jupiter.api.BeforeEach' instead of JUnit4 '@Before'.(½œËJ$33a28f39-3eba-48e7-b03f-6ea0b20daa41
- 
-java:S5826"_Annotate this method with JUnit5 '@org.junit.jupiter.api.AfterEach' instead of JUnit4 '@After'.(êÉø„øÿÿÿÿJ$06a6461b-d4af-46de-8860-3d59b36e8a97
-Y
-java:S5786"Remove this 'public' modifier.(œÅ†?J$63d7a47c-fbcc-4b58-be1e-722425d056e5
-_
-java:S5786"Remove this 'public' modifier.(Í“Ñ¹ıÿÿÿÿJ$989db3d4-6fda-445e-a37a-a93225021ec4
-e
-java:S2925"$Remove this use of "Thread.sleep()".(‘ ÁïşÿÿÿÿJ$998bccb8-8f2b-4a50-ad3e-b281e5b23364
